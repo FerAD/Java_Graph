@@ -1,0 +1,21 @@
+Calificaciones de primer parcial
+9
+Bases de datos
+Programacion avanzada
+Lenguajes
+Metodos
+Graficas compuacionales
+Ingenieria de sw
+Emprendedor
+Administracion
+Seguridad informatica
+100
+85
+90
+70
+82
+75
+82
+89
+94
+76
